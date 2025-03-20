@@ -1,0 +1,4 @@
+{
+    "command_group_types":["parallel","sequential"],
+    "field_width":8.05
+}
